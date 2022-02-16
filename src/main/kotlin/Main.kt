@@ -11,5 +11,4 @@ var name=("Lucy Amekwi")
     println(kenyan)
     val notkenyan :Boolean=false
     println(notkenyan)
-
 }
